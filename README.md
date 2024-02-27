@@ -1,2 +1,2 @@
-# Bharat_intern_task_1
-Bharat intern task 1
+# Bharat intern task - 1
+Author - Ranjeet Tiwari
