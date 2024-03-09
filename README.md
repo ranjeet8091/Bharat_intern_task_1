@@ -1,2 +1,1 @@
-# Bharat intern task - 1
-Author - Ranjeet Tiwari
+# Bharat Intern Task-2 ( Weather Website ) Author - Vivek Kumar
