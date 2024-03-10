@@ -1,1 +1,1 @@
-# Bharat Intern Task-2 ( Weather Website ) Author - Ranjeet Tiwari
+# Bharat Intern Task-1 ( Weather Website ) Author - Ranjeet Tiwari
