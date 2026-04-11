@@ -1,3 +1,11 @@
-# Bharat Intern Task-1 ( Weather Website ) Author - Ranjeet Tiwari 
-i am from bihar
-    
+## 🚀 Features
+- Live weather updates 🌡️
+- API integration 🌐
+- Responsive design 📱
+- Simple and clean UI
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Weather API
